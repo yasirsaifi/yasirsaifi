@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @yasirsaifi
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning python and java
+-  i am currently working as a business Analyst
 - 💞️ I’m looking to collaborate on web development 
 - 📫 How to reach me - saifyyasir2@gmail.com
 
