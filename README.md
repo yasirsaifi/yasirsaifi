@@ -26,12 +26,6 @@ I work at the intersection of data-driven decision making and software engineeri
 
 ---
 
-## 📊 GitHub Stats
-
-![Yasir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yasirsaifi&show_icons=true&theme=github_dark&hide_border=true)
-
----
-
 ## 🤝 Let's Connect
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saifyyasir2@gmail.com)
