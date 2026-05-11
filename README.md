@@ -9,7 +9,7 @@ I work at the intersection of data-driven decision making and software engineeri
 ## 🚀 About Me
 
 - 💼 **Business Analyst** with a strong technical foundation
-- 🌐 Passionate about **Web Development** — building scalable, user-focused applications
+- 🌐 Passionate about **Software Development** — building scalable, user-focused applications
 - 🐍 Proficient in **Python** | Expanding into **Java**
 - 🤝 Open to collaborating on **open-source web projects** and **developer tools**
 - 📬 Reach me at [saifyyasir2@gmail.com](mailto:saifyyasir2@gmail.com)
